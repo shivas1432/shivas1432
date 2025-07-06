@@ -8,9 +8,14 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=250&lines=◢◣◥◤◢◣+FULL-STACK+WEB+DEVELOPER+◢◣◥◤◢◣;◥◤◢◣◥◤+React+|+Node.js+|+Python+Expert+◥◤◢◣◥◤;◢◣◥◤◢◣+Cloud+Architect+%26+Data+Analyst+◢◣◥◤◢◣;◥◤◢◣◥◤+Building+Scalable+Applications+◥◤◢◣◥◤;◢◣◥◤◢◣+SQL+Insights+%26+Performance+Optimization+◢◣◥◤◢◣" alt="Hologram Effect"/>
 </div>
 
-<!-- Floating Particle System -->
+<!-- Snake Animation - TOP ONLY -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Particle System"/>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+<!-- Snow Falling Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=500&color=E6F3FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅;❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅" alt="Snow Effect"/>
 </div>
 
 <!-- Profile Counters with Neon Effect -->
@@ -69,6 +74,10 @@
 
 ---
 
+<!-- Animated Snow Divider -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=300&color=B8E6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️" alt="Snow Divider"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&height=80&lines=LET'S+BUILD+SOMETHING+AMAZING!;CONNECT+%26+COLLABORATE+🤝;OPEN+TO+NEW+OPPORTUNITIES!" alt="Connect Header"/>
@@ -167,6 +176,10 @@ data_analyst_journey = {
 }
 ```
 
+<!-- Winter Themed Section Divider -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅" alt="Winter Divider"/>
+</div>
 
 ## 📊 **GitHub Analytics - Data Visualization**
 
@@ -179,7 +192,6 @@ data_analyst_journey = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivas1432&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
 </div>
-
 
 ---
 
@@ -226,6 +238,10 @@ data_analyst_journey = {
 
 ---
 
+<!-- Snow Effect Between Sections -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=1000&pause=200&color=E0F6FF&center=true&vCenter=true&multiline=true&width=800&height=40&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅" alt="Snow Line"/>
+</div>
 
 ## 📊 **Weekly Development Breakdown**
 <div align="center">
@@ -317,8 +333,12 @@ data_analyst_journey = {
 
 ---
 
-
-<!-- Snow/Stars Falling Effect -->
+<!-- Final Snow Effect Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Falling Stars Effect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=500&color=D6F0FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅;❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅" alt="Final Snow Effect"/>
+</div>
+
+<!-- Winter Themed Sign Off -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=❄️+Thanks+for+visiting+my+winter+wonderland+of+code!+❄️;☃️+Let's+build+something+amazing+together!+☃️" alt="Winter Sign Off"/>
 </div>
