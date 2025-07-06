@@ -5,7 +5,7 @@
 
 <!-- Cyber Glitch Animation Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=250&lines=🚀+FULL-STACK+WEB+DEVELOPER;⚡+React+%7C+Node.js+%7C+Python+Expert;☁️+Cloud+Architect+%26+Data+Analyst;🔥+Building+Scalable+Applications;💡+SQL+Insights+%26+Performance+Optimization;🌟+Cardiff+Based+Innovation+Catalyst" alt="Cyber Typing"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=250&lines=◢◣◥◤◢◣+FULL-STACK+WEB+DEVELOPER+◢◣◥◤◢◣;◥◤◢◣◥◤+React+|+Node.js+|+Python+Expert+◥◤◢◣◥◤;◢◣◥◤◢◣+Cloud+Architect+%26+Data+Analyst+◢◣◥◤◢◣;◥◤◢◣◥◤+Building+Scalable+Applications+◥◤◢◣◥◤;◢◣◥◤◢◣+SQL+Insights+%26+Performance+Optimization+◢◣◥◤◢◣" alt="Hologram Effect"/>
 </div>
 
 <!-- Floating Particle System -->
