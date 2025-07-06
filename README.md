@@ -180,15 +180,6 @@ data_analyst_journey = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivas1432&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
 </div>
 
-<!-- Custom Overlay for Stars and Streak -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=80&lines=⭐+TOTAL+STARS+EARNED%3A+200;🔥+LONGEST+STREAK%3A+46+DAYS" alt="Custom Stats Overlay"/>
-</div>
-
-<!-- Alternative: GitHub Stats with Custom Fork -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivas1432&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&hide=issues&show=reviews,discussions_started,discussions_answered,prs_merged"/>
-</div>
 
 ---
 
