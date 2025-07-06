@@ -1,0 +1,23 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: shivas1432
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - run: git config user.name "GitHub Actions Bot"
+      - run: git config user.email "<>"
+      - run: git add .
+      - run: git commit -m "Updated snake gif"
+      - run: git push
