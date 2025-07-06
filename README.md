@@ -202,25 +202,30 @@ const ecommerce = {
 
 ---
 
-## 📊 **Contribution Activity**
+## 🎮 **Retro Gaming Terminal**
 <div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/shivas1432" alt="GitHub Contribution Chart"/>
+  <img src="https://github-readme-terminal-game.vercel.app/api?username=shivas1432" alt="Terminal Game"/>
 </div>
 
-## 🔥 **Coding Streak & Activity**
+## 🌊 **3D Contribution Wave**
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivas1432&theme=radical" alt="Profile Summary"/>
+  <img src="https://raw.githubusercontent.com/shivas1432/shivas1432/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contributions"/>
 </div>
 
+## ⚡ **Matrix Code Rain**
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivas1432&theme=radical" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivas1432&theme=radical" alt="Most Commit Language"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=600&height=400&lines=01001000+01100101+01101100+01101100+01101111;01010111+01101111+01110010+01101100+01100100;01000011+01101111+01100100+01101001+01101110+01100111;01001001+01110011+01000001+01110010+01110100" alt="Matrix Rain"/>
 </div>
 
-## ⚡ **Development Metrics**
+## 🎯 **Contribution Heatmap Game**
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivas1432&theme=radical" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivas1432&theme=radical&utcOffset=0" alt="Productive Time"/>
+  <img src="https://ghchart.rshah.org/409ba5/shivas1432" alt="GitHub Chart"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=shivas1432&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+## 🕹️ **Retro Arcade Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivas1432&show_icons=true&theme=synthwave&hide_border=true&bg_color=000000&title_color=ff6ec7&icon_color=00d4aa&text_color=ffffff" alt="Arcade Stats"/>
 </div>
 
 ---
