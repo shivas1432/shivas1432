@@ -202,9 +202,25 @@ const ecommerce = {
 
 ---
 
-## 🐍 **Contribution Snake**
+## 📊 **Contribution Activity**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shivas1432/shivas1432/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://ghchart.rshah.org/409ba5/shivas1432" alt="GitHub Contribution Chart"/>
+</div>
+
+## 🔥 **Coding Streak & Activity**
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivas1432&theme=radical" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivas1432&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivas1432&theme=radical" alt="Most Commit Language"/>
+</div>
+
+## ⚡ **Development Metrics**
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivas1432&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivas1432&theme=radical&utcOffset=0" alt="Productive Time"/>
 </div>
 
 ---
