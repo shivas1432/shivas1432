@@ -69,43 +69,55 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&height=80&lines=LET'S+BUILD+SOMETHING+AMAZING!;CONNECT+%26+COLLABORATE+🤝;OPEN+TO+NEW+OPPORTUNITIES!" alt="Connect Header"/>
 </div>
 
+
 <!-- Animated Connector Lines -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&width=500&height=30&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Connector"/>
 </div>
 
-<!-- Social Links with Enhanced Design -->
+<!-- Social Links with GIF Side by Side -->
 <div align="center">
   <table style="border-collapse: collapse; margin: 20px auto;">
     <tr>
-      <td style="padding: 8px;">
-        <a href="mailto:shivashanker7337@gmail.com">
-          <img src="https://img.shields.io/badge/📧_EMAIL-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6EC7" alt="Email"/>
-        </a>
+      <td style="padding: 20px; vertical-align: middle;">
+        <!-- Party Animation GIF -->
+        <img src="./party-furby.gif" alt="Party Animation" width="200"/>
       </td>
-      <td style="padding: 8px;">
-        <a href="http://www.linkedin.com/in/shiva-kanugula-51a512252">
-          <img src="https://img.shields.io/badge/💼_LINKEDIN-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=00D4AA" alt="LinkedIn"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">
-        <a href="https://shivashankerportfolio.netlify.app/">
-          <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700" alt="Portfolio"/>
-        </a>
-      </td>
-      <td style="padding: 8px;">
-        <a href="https://www.instagram.com/ss_web_servicess/">
-          <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=DC143C" alt="Instagram"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding: 8px; text-align: center;">
-        <a href="tel:+447867034729">
-          <img src="https://img.shields.io/badge/📱_PHONE_+44_7867_034729-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117&color=32CD32" alt="Phone"/>
-        </a>
+      <td style="padding: 20px; vertical-align: middle;">
+        <!-- Social Links Table -->
+        <table style="border-collapse: collapse;">
+          <tr>
+            <td style="padding: 8px;">
+              <a href="mailto:shivashanker7337@gmail.com">
+                <img src="https://img.shields.io/badge/📧_EMAIL-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6EC7" alt="Email"/>
+              </a>
+            </td>
+            <td style="padding: 8px;">
+              <a href="http://www.linkedin.com/in/shiva-kanugula-51a512252">
+                <img src="https://img.shields.io/badge/💼_LINKEDIN-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=00D4AA" alt="LinkedIn"/>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 8px;">
+              <a href="https://shivashankerportfolio.netlify.app/">
+                <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700" alt="Portfolio"/>
+              </a>
+            </td>
+            <td style="padding: 8px;">
+              <a href="https://www.instagram.com/ss_web_innovations/">
+                <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=DC143C" alt="Instagram"/>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding: 8px; text-align: center;">
+              <a href="tel:+447867034729">
+                <img src="https://img.shields.io/badge/📱_PHONE_+44_7867_034729-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117&color=32CD32" alt="Phone"/>
+              </a>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
