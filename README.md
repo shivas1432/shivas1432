@@ -48,18 +48,10 @@
 ## 🛠️ **Tech Arsenal - Weapons of Creation**
 
 <div align="center">
-  
-### **🎯 Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,sass,jquery&theme=dark" alt="Frontend"/>
 
-### **⚡ Backend & Cloud Power**
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,firebase,gcp,aws&theme=dark" alt="Backend"/>
-
-### **🔧 Development Arsenal**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,heroku,netlify,vercel,docker&theme=dark" alt="Tools"/>
-
-### **💻 Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,sql&theme=dark" alt="Languages"/>
+| **Tech Skills** |      |
+|:---:|:---:|
+| **🎯 Frontend Mastery**<br><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,sass,jquery&theme=dark" alt="Frontend"/><br><br>**⚡ Backend & Cloud Power**<br><img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,firebase,gcp,aws&theme=dark" alt="Backend"/><br><br>**🔧 Development Arsenal**<br><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,heroku,netlify,vercel,docker&theme=dark" alt="Tools"/><br><br>**💻 Programming Languages**<br><img src="https://skillicons.dev/icons?i=python,js,java,cpp,sql&theme=dark" alt="Languages"/> | <img src="./2.gif" alt="Tech Animation" width="300"/> |
 
 </div>
 
@@ -105,7 +97,7 @@
               </a>
             </td>
             <td style="padding: 8px;">
-              <a href="https://www.instagram.com/ss_web_innovations/">
+              <a href="https://www.instagram.com/ss_web_servicess/">
                 <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=DC143C" alt="Instagram"/>
               </a>
             </td>
