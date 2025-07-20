@@ -25,10 +25,6 @@
 
 ## 🌟 **About Me - The Code Architect**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=const+developer+%3D+%7B;++name%3A+'Kanugula+Shivashanker'%2C;++location%3A+'Cardiff%2C+Wales+🏴󠁧󠁢󠁷󠁬󠁳󠁿'%2C;++passion%3A+'Scalable+Applications+%26+Data+Insights'%2C;++expertise%3A+%5B'React'%2C+'Node.js'%2C+'Python'%2C+'Cloud'%5D;%7D%3B" alt="Code About"/>
-</div>
-
 ```yaml
 👨‍💻 Developer Profile:
   name: "Kanugula Shivashanker"
