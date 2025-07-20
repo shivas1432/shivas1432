@@ -15,7 +15,7 @@
 
 <!-- Snow Falling Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=500&color=E6F3FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅;❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅" alt="Snow Effect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=500&color=E6F3FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅;❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️" alt="Snow Effect"/>
 </div>
 
 <!-- Profile Counters with Neon Effect -->
