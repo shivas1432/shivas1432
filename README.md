@@ -21,27 +21,6 @@
   <img src="https://img.shields.io/badge/STATUS-CODING-brightgreen?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status"/>
 </div>
 
----
-
-## 🌟 **About Me - The Code Architect**
-
-```yaml
-👨‍💻 Developer Profile:
-  name: "Kanugula Shivashanker"
-  location: "Cardiff, Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿"
-  role: "Full-Stack Web Developer"
-  specialization: 
-    - "React.js & Node.js Ecosystems"
-    - "Cloud Architecture (GCP, AWS)"
-    - "Data Analysis with Python & SQL"
-    - "Performance Optimization Expert"
-  achievements:
-    - "40% Server Response Time Reduction"
-    - "3x Concurrent User Capacity Scaling"
-    - "25% User Engagement Improvement"
-  current_mission: "Building scalable applications with data-driven insights"
-  code_philosophy: "Clean code is not written by following rules. It's written by having discipline."
-```
 
 ---
 
