@@ -2,20 +2,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHIVASHANKER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18"/>
 </div>
+
 <!-- Cyber Glitch Animation Header -->
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=250&lines=◢◣◥◤◢◣+FULL-STACK+WEB+DEVELOPER+◢◣◥◤◢◣;◥◤◢◣◥◤+React+|+Node.js+|+Python+Expert+◥◤◢◣◥◤;◢◣◥◤◢◣+Cloud+Architect+%26+Data+Analyst+◢◣◥◤◢◣;◥◤◢◣◥◤+Building+Scalable+Applications+◥◤◢◣◥◤;◢◣◥◤◢◣+SQL+Insights+%26+Performance+Optimization+◢◣◥◤◢◣" alt="Hologram Effect"/>
 </div>
 
-
 <!-- Snake Animation - TOP ONLY -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</div>
-
-<!-- Snow Falling Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=500&color=E6F3FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅;❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️" alt="Snow Effect"/>
 </div>
 
 <!-- Profile Counters with Neon Effect -->
@@ -73,11 +68,6 @@
 </div>
 
 ---
-
-<!-- Animated Snow Divider -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=300&color=B8E6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️" alt="Snow Divider"/>
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&height=80&lines=LET'S+BUILD+SOMETHING+AMAZING!;CONNECT+%26+COLLABORATE+🤝;OPEN+TO+NEW+OPPORTUNITIES!" alt="Connect Header"/>
@@ -137,50 +127,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=60&lines=PROFESSIONAL+EVOLUTION+TIMELINE" alt="Timeline Header"/>
-</div>
-
-### 🎯 **Backend Developer Journey**
-```javascript
-const experience = {
-  company: "Infinite Tech Solutions",
-  duration: "Jan 2021 - Jun 2022",
-  role: "Backend Developer",
-  achievements: [
-    "⚡ 40% server response time reduction",
-    "🚀 3x concurrent user capacity increase", 
-    "📈 25% user engagement boost",
-    "🎯 60% database query optimization",
-    "⬇️ 35% system downtime decrease"
-  ],
-  techStack: ["Node.js", "Express.js", "Python", "Django", "Flask", "MySQL"],
-  impact: "Transformed backend infrastructure for optimal performance"
-};
-```
-
-### 📊 **Data Analyst Origins**
-```python
-data_analyst_journey = {
-    "company": "Nexus Software System",
-    "duration": "Nov 2019 - Nov 2020", 
-    "role": "Data Analyst Intern",
-    "expertise": [
-        "📈 Complex dataset transformation",
-        "🔍 SQL query architecture", 
-        "🤖 Python & VBA automation",
-        "📊 Power BI & Tableau dashboards",
-        "🤝 Cross-functional team collaboration"
-    ],
-    "tools": ["Excel", "SQL", "Python", "Pandas", "NumPy", "Power BI", "Tableau"]
-}
-```
-
-<!-- Winter Themed Section Divider -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅" alt="Winter Divider"/>
-</div>
-
 ## 📊 **GitHub Analytics - Data Visualization**
 
 <div align="center">
@@ -191,61 +137,6 @@ data_analyst_journey = {
 <!-- Modified Streak Stats with Custom Values -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivas1432&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🌟 **Current Focus - Innovation Labs**
-
-<div align="center">
-  <table style="border: 2px solid #00D4AA; border-radius: 15px; background: linear-gradient(45deg, #0D1117, #1a1a2e);">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <img src="https://img.shields.io/badge/☁️-CLOUD_MASTERY-00D4AA?style=for-the-badge&logo=googlecloud" alt="Cloud"/><br>
-        <strong>Cloud Architecture</strong><br>
-        <sub>GCP & AWS Advanced Implementation</sub>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <img src="https://img.shields.io/badge/🤖-AI_INTEGRATION-FF6EC7?style=for-the-badge&logo=tensorflow" alt="AI"/><br>
-        <strong>AI Integration</strong><br>
-        <sub>Intelligent Application Development</sub>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <img src="https://img.shields.io/badge/⚡-PERFORMANCE-FFD700?style=for-the-badge&logo=speedtest" alt="Performance"/><br>
-        <strong>Performance Optimization</strong><br>
-        <sub>Scalability & Speed Enhancement</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <img src="https://img.shields.io/badge/📊-DATA_INSIGHTS-00BFFF?style=for-the-badge&logo=python" alt="Data"/><br>
-        <strong>SQL & Python Analytics</strong><br>
-        <sub>Data-Driven Decision Making</sub>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <img src="https://img.shields.io/badge/🔐-SECURITY-DC143C?style=for-the-badge&logo=security" alt="Security"/><br>
-        <strong>OAuth & JWT Systems</strong><br>
-        <sub>Advanced Authentication</sub>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <img src="https://img.shields.io/badge/🌐-FULL_STACK-32CD32?style=for-the-badge&logo=react" alt="Full Stack"/><br>
-        <strong>React & Node.js</strong><br>
-        <sub>End-to-End Development</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- Snow Effect Between Sections -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=1000&pause=200&color=E0F6FF&center=true&vCenter=true&multiline=true&width=800&height=40&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅" alt="Snow Line"/>
-</div>
-
-## 📊 **Weekly Development Breakdown**
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=120&lines=JavaScript+++12+hrs+30+mins++███████████░░░░░░░░░░░░░░+++45.2%25;React++++++++8+hrs+15+mins+++███████░░░░░░░░░░░░░░░░░░+++29.8%25;Node.js++++++4+hrs+45+mins+++████░░░░░░░░░░░░░░░░░░░░░+++17.1%25;Python+++++++2+hrs+10+mins+++██░░░░░░░░░░░░░░░░░░░░░░░++++7.9%25" alt="Coding Stats"/>
 </div>
 
 ---
@@ -283,62 +174,9 @@ data_analyst_journey = {
 
 ---
 
-## 🖥️ **Interactive Developer Terminal**
 
-<details>
-<summary>🖥️ <strong>Access My Digital Workspace</strong></summary>
-
-```bash
-┌─[visitor@shivashanker-dev]─[~/cardiff-developer]
-└──╼ $ whoami
-> Full-Stack Developer | Cardiff, Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-> Specializing in React, Node.js, Python & Cloud Architecture
-
-┌─[visitor@shivashanker-dev]─[~/cardiff-developer]  
-└──╼ $ ls -la skills/
-> Frontend: React.js, JavaScript ES6+, HTML5, CSS3, SASS
-> Backend: Node.js, Express.js, Python, Django, Flask
-> Database: MySQL, MongoDB, PostgreSQL
-> Cloud: GCP, AWS, Firebase, Netlify, Vercel
-> Tools: Git, Docker, Postman, VS Code
-
-┌─[visitor@shivashanker-dev]─[~/cardiff-developer]
-└──╼ $ cat achievements.txt
-> 🏆 40% Server Performance Improvement
-> ⭐ 3x Concurrent User Capacity Scaling
-> 📈 25% User Engagement Growth  
-> 🔧 60% Database Query Optimization
-> ⬇️ 35% System Downtime Reduction
-
-┌─[visitor@shivashanker-dev]─[~/cardiff-developer]
-└──╼ $ echo $CURRENT_PROJECTS
-> "Building next-gen e-commerce platforms with AI integration"
-> "Optimizing cloud infrastructure for maximum scalability"
-> "Developing data analytics dashboards for business insights"
-
-┌─[visitor@shivashanker-dev]─[~/cardiff-developer]
-└──╼ $ cat contact.txt
-> 📧 shivashanker7337@gmail.com
-> 🔗 linkedin.com/in/shiva-kanugula-51a512252
-> 🌐 shivashankerportfolio.netlify.app
-> 📱 +44 7867 034729
-> 📍 Cardiff, Wales, UK
-
-┌─[visitor@shivashanker-dev]─[~/cardiff-developer]
-└──╼ $ fortune
-> "Innovation distinguishes between a leader and a follower." - Steve Jobs
-```
-
-</details>
-
----
-
-<!-- Final Snow Effect Footer -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=500&color=D6F0FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅;❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️;+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅+❄️+❅" alt="Final Snow Effect"/>
-</div>
 
 <!-- Winter Themed Sign Off -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=❄️+Thanks+for+visiting+my+winter+wonderland+of+code!+❄️;☃️+Let's+build+something+amazing+together!+☃️" alt="Winter Sign Off"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Thanks+for+visiting+my+digital+workspace!;Let's+build+something+amazing+together!" alt="Sign Off"/>
 </div>
