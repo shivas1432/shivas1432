@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
-<!-- Profile Counters with Neon Effect -->
+<!-- Profile Counters with Neon Effet -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivas1432&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/shivas1432?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
