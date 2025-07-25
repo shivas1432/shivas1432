@@ -1,4 +1,4 @@
-<!-- Animated Falling Stars Background -->
+<!-- Animated Falling Stars Backgroun -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHIVASHANKER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18"/>
 </div>
