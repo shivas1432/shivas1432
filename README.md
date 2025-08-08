@@ -8,23 +8,32 @@
  
 </div>
 
-<!-- Cyber Glitch with Custom Styling -->
-<div align="center" style="background: linear-gradient(135deg, #0D1117, #1a1a2e, #16213e); padding: 30px; border-radius: 15px; margin: 20px 0;">
-  <h2 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 24px; text-shadow: 0 0 10px #00FF41; margin: 10px 0;">
-    ◢◣◥◤◢◣ FULL-STACK WEB DEVELOPER ◢◣◥◤◢◣
-  </h2>
-  <h3 style="color: #00D4AA; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #00D4AA; margin: 8px 0;">
-    ◥◤◢◣◥◤ React | Node.js | Python Expert ◥◤◢◣◥◤
-  </h3>
-  <h3 style="color: #FF6EC7; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF6EC7; margin: 8px 0;">
-    ◢◣◥◤◢◣ Cloud Architect & Data Analyst ◢◣◥◤◢◣
-  </h3>
-  <h3 style="color: #FFD700; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FFD700; margin: 8px 0;">
-    ◥◤◢◣◥◤ Building Scalable Applications ◥◤◢◣◥◤
-  </h3>
-  <h3 style="color: #DC143C; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #DC143C; margin: 8px 0;">
-    ◢◣◥◤◢◣ SQL Insights & Performance Optimization ◢◣◥◤◢◣
-  </h3>
+<!-- Simple Side-by-Side Layout -->
+<div align="center">
+  <table style="border-collapse: collapse; margin: 20px auto; background: linear-gradient(135deg, #0D1117, #1a1a2e); border-radius: 20px; overflow: hidden; box-shadow: 0 0 40px rgba(0, 255, 65, 0.3);">
+    <tr>
+      <td style="padding: 30px; vertical-align: middle;">
+        <h2 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 24px; text-shadow: 0 0 10px #00FF41; margin: 10px 0;">
+          ◢◣◥◤◢◣ FULL-STACK WEB DEVELOPER ◢◣◥◤◢◣
+        </h2>
+        <h3 style="color: #00D4AA; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #00D4AA; margin: 8px 0;">
+          ◥◤◢◣◥◤ React | Node.js | Python Expert ◥◤◢◣◥◤
+        </h3>
+        <h3 style="color: #FF6EC7; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF6EC7; margin: 8px 0;">
+          ◢◣◥◤◢◣ Cloud Architect & Data Analyst ◢◣◥◤◢◣
+        </h3>
+        <h3 style="color: #FFD700; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FFD700; margin: 8px 0;">
+          ◥◤◢◣◥◤ Building Scalable Applications ◥◤◢◣◥◤
+        </h3>
+        <h3 style="color: #DC143C; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #DC143C; margin: 8px 0;">
+          ◢◣◥◤◢◣ SQL Insights & Performance Optimization ◢◣◥◤◢◣
+        </h3>
+      </td>
+      <td style="padding: 20px; vertical-align: middle; background: radial-gradient(circle, rgba(0, 255, 65, 0.1), transparent);">
+        <img src="./12.gif" alt="Tech Animation" width="320" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5), inset 0 0 30px rgba(0, 255, 65, 0.1); border: 2px solid #00FF41;"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
