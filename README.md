@@ -1,18 +1,32 @@
 
 
-<!-- Alternative Header for platforms that don't support CSS positioning -->
 <div align="center">
   <img src="./11.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=SHIVASHANKER" alt="Name Header"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=18&duration=2000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Web+Developer" alt="Title"/>
+ 
 </div>
 
-<!-- Cyber Glitch Animation Header -->
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=250&lines=◢◣◥◤◢◣+FULL-STACK+WEB+DEVELOPER+◢◣◥◤◢◣;◥◤◢◣◥◤+React+|+Node.js+|+Python+Expert+◥◤◢◣◥◤;◢◣◥◤◢◣+Cloud+Architect+%26+Data+Analyst+◢◣◥◤◢◣;◥◤◢◣◥◤+Building+Scalable+Applications+◥◤◢◣◥◤;◢◣◥◤◢◣+SQL+Insights+%26+Performance+Optimization+◢◣◥◤◢◣" alt="Hologram Effect"/>
+<!-- Cyber Glitch with Custom Styling -->
+<div align="center" style="background: linear-gradient(135deg, #0D1117, #1a1a2e, #16213e); padding: 30px; border-radius: 15px; margin: 20px 0;">
+  <h2 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 24px; text-shadow: 0 0 10px #00FF41; margin: 10px 0;">
+    ◢◣◥◤◢◣ FULL-STACK WEB DEVELOPER ◢◣◥◤◢◣
+  </h2>
+  <h3 style="color: #00D4AA; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #00D4AA; margin: 8px 0;">
+    ◥◤◢◣◥◤ React | Node.js | Python Expert ◥◤◢◣◥◤
+  </h3>
+  <h3 style="color: #FF6EC7; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF6EC7; margin: 8px 0;">
+    ◢◣◥◤◢◣ Cloud Architect & Data Analyst ◢◣◥◤◢◣
+  </h3>
+  <h3 style="color: #FFD700; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FFD700; margin: 8px 0;">
+    ◥◤◢◣◥◤ Building Scalable Applications ◥◤◢◣◥◤
+  </h3>
+  <h3 style="color: #DC143C; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #DC143C; margin: 8px 0;">
+    ◢◣◥◤◢◣ SQL Insights & Performance Optimization ◢◣◥◤◢◣
+  </h3>
 </div>
+
 
 <!-- Snake Animation - TOP ONLY -->
 <div align="center">
