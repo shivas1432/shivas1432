@@ -79,7 +79,7 @@
     <tr>
       <td style="padding: 20px; vertical-align: middle;">
         <!-- Party Animation GIF -->
-        <img src="./party-furby.gif" alt="Party Animation" width="200"/>
+        <img src="./15.gif" alt="Party Animation" width="200"/>
       </td>
       <td style="padding: 20px; vertical-align: middle;">
         <!-- Social Links Table -->
