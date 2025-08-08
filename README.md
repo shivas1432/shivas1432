@@ -13,7 +13,7 @@
   <table style="border-collapse: collapse; margin: 20px auto; background: linear-gradient(135deg, #0D1117, #1a1a2e); border-radius: 20px; overflow: hidden; box-shadow: 0 0 40px rgba(0, 255, 65, 0.3);">
     <tr>
       <td style="padding: 30px; vertical-align: middle;">
-        <h2 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 24px; text-shadow: 0 0 10px #00FF41; margin: 10px 0;">
+        <h2 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 19px; text-shadow: 0 0 10px #00FF41; margin: 8px 0;">
           ◢◣◥◤◢◣ FULL-STACK WEB DEVELOPER ◢◣◥◤◢◣
         </h2>
         <h3 style="color: #00D4AA; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #00D4AA; margin: 8px 0;">
