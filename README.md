@@ -1,6 +1,12 @@
-<!-- Animated Falling Stars Backgroun -->
+
+
+<!-- Alternative Header for platforms that don't support CSS positioning -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHIVASHANKER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18"/>
+  <img src="./11.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=SHIVASHANKER" alt="Name Header"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=18&duration=2000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Web+Developer" alt="Title"/>
 </div>
 
 <!-- Cyber Glitch Animation Header -->
@@ -8,19 +14,18 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=250&lines=◢◣◥◤◢◣+FULL-STACK+WEB+DEVELOPER+◢◣◥◤◢◣;◥◤◢◣◥◤+React+|+Node.js+|+Python+Expert+◥◤◢◣◥◤;◢◣◥◤◢◣+Cloud+Architect+%26+Data+Analyst+◢◣◥◤◢◣;◥◤◢◣◥◤+Building+Scalable+Applications+◥◤◢◣◥◤;◢◣◥◤◢◣+SQL+Insights+%26+Performance+Optimization+◢◣◥◤◢◣" alt="Hologram Effect"/>
 </div>
 
-<!-- Snake Animati - TOP ONLYY -->
+<!-- Snake Animation - TOP ONLY -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
-<!-- Profile Counters with Neon Effet -->
+<!-- Profile Counters with Neon Effect -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivas1432&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/shivas1432?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/badge/CARDIFF-WALES-red?style=for-the-badge&logo=github&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/STATUS-CODING-brightgreen?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status"/>
 </div>
-
 
 ---
 
@@ -39,7 +44,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&height=80&lines=LET'S+BUILD+SOMETHING+AMAZING!;CONNECT+%26+COLLABORATE+🤝;OPEN+TO+NEW+OPPORTUNITIES!" alt="Connect Header"/>
 </div>
-
 
 <!-- Animated Connector Lines -->
 <div align="center">
@@ -152,8 +156,6 @@
 </details>
 
 ---
-
-
 
 <!-- Winter Themed Sign Off -->
 <div align="center">
